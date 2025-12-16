@@ -36,7 +36,7 @@ Combining technical depth across multiple languages with a product-focused minds
 ### 🌟 Featured Projects
 
 - **[NoizeOff.com](https://noizeoff.com)**: My personal project—a research intelligence platform with AI tools like **sigmaXiv** for paper summaries and **FlowTalk** for voice-based conversations and intelligent calendar generation that creates personalized study schedules.
-- **[FinSureAI](https://finsureai.vercel.app)**: Fine-tune LLM models with custom policy data in minutes for on-prem deployment. Upload datasets, launch Modal GPU jobs, monitor training progress, and chat with your customized model directly in the dashboard.
+- **[FinSureAI](https://finsureai.vercel.app)**: Fine-tune LLM models with custom policy FAQ data in minutes for on-prem deployment. Upload datasets, launch Modal GPU jobs, monitor training progress, and chat with your customized model directly in the dashboard.
 - **CO₂ Prediction Model for PEI & NB Potato Farms**: Predictive model for CO₂ concentrations using environmental sensor data, benchmarking Linear Regression and XGBoost with five-fold cross-validation to forecast emissions across Prince Edward Island and New Brunswick potato fields.
 - **Diabetes Risk Prediction**: Real-time risk assessment app built with R Shiny, using health indicators (BMI, glucose levels, blood pressure) to predict diabetes risk with an interactive user interface.
 - **Extreme-Weather-Event-Image-Classifier**: ML-based image classification for weather events.

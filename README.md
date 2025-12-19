@@ -17,7 +17,7 @@
 
 **AI Software Engineer** with **2+ years of experience** building intelligent systems, data-driven applications, and scalable backend infrastructure. Specializing in **AI/ML integration**, **LLMs**, **predictive modeling**, and **cloud-native architectures** across Python, C#/.NET, Azure, and modern data platforms.
 
-Co-Founder of **[NoizeOff.com](https://noizeoff.com)**, a platform for research intelligence and voice AI, featuring **sigmaXiv** for AI-powered paper summaries and **FlowTalk** for natural voice conversations and intelligent calendar generation that creates personalized study schedules based.
+**CTO & Co-Founder of [FinSureAI](https://finsureai.vercel.app)**, a platform for rapidly fine-tuning LLMs with custom policy and FAQ data for **secure on-prem deployment**. Enables teams to upload datasets, launch GPU training jobs via Modal, monitor fine-tuning progress, and chat with customized models directly through an integrated dashboard.
 
 ### 🚀 Core Expertise
 

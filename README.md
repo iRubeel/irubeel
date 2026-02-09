@@ -1,4 +1,4 @@
-# Muhammad Rubeel Saleem
+# Rubeel Saleem
 
 ## 👨‍💻 About Me
 

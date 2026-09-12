@@ -17,8 +17,6 @@
 
 **AI Software Engineer** with **2+ years of experience** building intelligent systems, data-driven applications, and scalable backend infrastructure. Specializing in **AI/ML integration**, **LLMs**, **predictive modeling**, and **cloud-native architectures** across Python, C#/.NET, Azure, and modern data platforms.
 
-**CTO & Co-Founder of [FinSureAI](https://finsureai.vercel.app)**, a platform for rapidly fine-tuning LLMs with custom policy and FAQ data for **secure on-prem deployment**. Enables teams to upload datasets, launch GPU training jobs via Modal, monitor fine-tuning progress, and chat with customized models directly through an integrated dashboard.
-
 ### 🚀 Core Expertise
 
 **AI & Machine Learning**: Building production-ready AI agents, LLM integration, and intelligent automation systems. Expertise in predictive modeling (CO2 emissions forecasting, diabetes risk prediction), NLP sentiment analysis, and image classification (extreme weather events). Proficient in **Python**, **PySpark**, **scikit-learn**, and **XGBoost**. Developed voice AI tools like **FlowTalk** within the NoizeOff ecosystem to support student anxiety management and study planning.
@@ -34,9 +32,6 @@
 Combining technical depth across multiple languages with a product-focused mindset. I don't just write code—I build intelligent systems that solve real-world problems, from academic assistants to financial AI agents.
 
 ### 🌟 Featured Projects
-
-- **[NoizeOff.com](https://noizeoff.com)**: A research intelligence platform with AI tools like **sigmaXiv** for research paper summaries and **FlowTalk** for voice based conversations that provides brain clarity and intelligent calendar generation that creates personalized study schedules.
-- **[FinSureAI](https://finsureai.vercel.app)**: Fine-tune LLM models with custom policy FAQ data in minutes for on-prem deployment. Upload datasets, launch Modal GPU jobs, monitor training progress, and chat with your customized model directly in the dashboard.
 - **CO₂ Prediction Model for PEI & NB Potato Farms**: Predictive model for CO₂ concentrations using environmental sensor data, benchmarking Linear Regression and XGBoost with five-fold cross-validation to forecast emissions across Prince Edward Island and New Brunswick potato fields.
 - **Diabetes Risk Prediction**: Real-time risk assessment app built with R Shiny, using health indicators (BMI, glucose levels, blood pressure) to predict diabetes risk with an interactive user interface.
 - **Extreme-Weather-Event-Image-Classifier**: ML-based image classification for weather events.
